@@ -1,6 +1,5 @@
 {
-  "name": "nideshop",
-  "description": "nideshop - open source mini program shop",
+  "name": "shopping-mall-server",
   "version": "1.0.0",
   "scripts": {
     "start": "node development.js",
